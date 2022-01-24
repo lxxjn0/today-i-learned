@@ -1,3 +1,5 @@
-# TIL
+# 👋 Introduce
 
-오늘 하루 학습한 내용을 공부
+{% hint style="info" %}
+공부한 내용을 정리해두는 공간입니다
+{% endhint %}
