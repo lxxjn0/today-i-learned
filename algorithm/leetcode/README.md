@@ -1,7 +1,3 @@
----
-layout: editorial
----
-
 # 🧗♂ LeetCode
 
 {% content-ref url="page-2.md" %}
