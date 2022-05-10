@@ -1,6 +1,8 @@
 # Named arguments
 
-### Task - Named arguments
+## Task
+
+### Named arguments
 
 Make the function `joinOptions()` return the list in a JSON format (for example, `[a, b, c]`) by specifying only two arguments.
 
@@ -31,9 +33,9 @@ fun joinOptions(options: Collection<String>) =
 
 separator는 기본 값으로 `", "` 를 가지고 있기 때문에 파라미터로 넘겨줄 필요가 없다.
 
-### Learning
+## Learning
 
-#### [Default arguments](https://kotlinlang.org/docs/functions.html#default-arguments)
+### [Default arguments](https://kotlinlang.org/docs/functions.html#default-arguments)
 
 함수 파라미터는 기본 값을 가질 수 있는데, 이는 (기본 값이 정의된) 파라미터를 스킵할 경우 사용된다. 이로 인해 overload의 수를 줄일 수 있다 :
 

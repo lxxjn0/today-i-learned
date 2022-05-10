@@ -1,6 +1,8 @@
 # Hello, World!
 
-### Task - Simple Functions
+## Task
+
+### Simple Functions
 
 Check out the [function syntax](https://kotlinlang.org/docs/basic-syntax.html#functions) and change the code to make the function `start` return the string `"OK"`
 
@@ -14,9 +16,9 @@ fun start(): String = TODO()
 fun start(): String = "OK"
 ```
 
-### Learning
+## Learning
 
-#### Functions
+### Functions
 
 `Int` 파라미터 2개와 `Int` 반환 타입을 가지는 함수
 

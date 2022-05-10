@@ -5,7 +5,8 @@
 ## 🏆 Algorithm
 
 * [🚵♂ LeetCode](algorithm/leetcode/README.md)
-  * [Page 1](algorithm/leetcode/page-1.md)
+  * [🐣 Easy](algorithm/leetcode/easy/README.md)
+    * [191. Number of 1 Bits](algorithm/leetcode/easy/191.-number-of-1-bits.md)
 
 ## 😜 Kotlin
 
