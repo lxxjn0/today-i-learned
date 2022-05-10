@@ -86,7 +86,7 @@ class Solution:
 
 예를 들어 5를 2진법으로 나타낼 경우, 몫이 1이 될 때까지 나누면서 그에 따른 몫과 나머지로 2진법을 표현할 수 있다(아래 그림 참고).
 
-![solution-02_01](../../../.gitbook/assets/leetcode-easy-191-01.jpeg)
+![](../../../.gitbook/assets/leetcode-easy-191-01.jpeg)
 
 반복하는 과정동안 등장한 모든 나머지와 최종 몫(1)을 더한다.
 
@@ -115,7 +115,7 @@ class Solution:
 
 ### 실행 결과
 
-![result](../../../.gitbook/assets/leetcode-easy-191-result.png)
+![](../../../.gitbook/assets/leetcode-easy-191-result.png)
 
 ### [Best Practice](<https://leetcode.com/problems/number-of-1-bits/discuss/1044775/Python-n-and-(n-1)-trick-%2B-even-faster-explained>)
 

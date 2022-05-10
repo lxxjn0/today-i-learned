@@ -61,7 +61,7 @@ class B : A() {
 }
 ```
 
-![default parameter를 재정의한 경우](<../../../.gitbook/assets/image (1).png>)
+![default parameter를 재정의한 경우](../../../.gitbook/assets/image-02.png)
 
 위와 같이 파라미터 기본 값이 정의되어 있는 base 메서드를 overriding 하면서, 해당 파라미터의 기본 값을 다시 재정의 할 경우 위와 같은 에러가 발생한다.
 

@@ -8,7 +8,7 @@ Given the head of a singly linked list, reverse the list, and return the reverse
 
 **Example 1:**
 
-![example-01](../../../.gitbook/assets/leetcode-easy-206-desc-01.jpeg)
+![](../../../.gitbook/assets/leetcode-easy-206-desc-01.jpeg)
 
 ```
 Input: head = [1,2,3,4,5]
@@ -17,7 +17,7 @@ Output: [5,4,3,2,1]
 
 **Example 2:**
 
-![example-02](../../../.gitbook/assets/leetcode-easy-206-desc-02.jpeg)
+![](../../../.gitbook/assets/leetcode-easy-206-desc-02.jpeg)
 
 ```
 Input: head = [1,2]
@@ -127,7 +127,7 @@ class Solution:
 
 ### 실행 결과
 
-![result](../../../.gitbook/assets/leetcode-easy-206-result.png)
+![](../../../.gitbook/assets/leetcode-easy-206-result.png)
 
 ### Best Practice
 
