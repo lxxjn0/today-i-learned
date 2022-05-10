@@ -4,9 +4,9 @@
 
 ## 🏆 Algorithm
 
-* [🚵♂ LeetCode](algorithm/leetcode/README.md)
+* [🚵 LeetCode](algorithm/leetcode/README.md)
   * [🐣 Easy](algorithm/leetcode/easy/README.md)
-    * [191. Number of 1 Bits](algorithm/leetcode/easy/191.-number-of-1-bits.md)
+    * [191. Number of 1 Bits](algorithm/leetcode/easy/191-number-of-1-bits.md)
 
 ## 😜 Kotlin
 

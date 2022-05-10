@@ -4,4 +4,5 @@ cover: ../../.gitbook/assets/leetcode_01.jpeg
 coverY: 33.654082528533806
 ---
 
-# LeetCode
+# 🚵 LeetCode
+
