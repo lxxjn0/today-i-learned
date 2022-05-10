@@ -115,7 +115,7 @@ class Solution:
 
 ### 실행 결과
 
-![solution-02_01](../../../.gitbook/assets/leetcode-easy-191-result.png)
+![result](../../../.gitbook/assets/leetcode-easy-191-result.png)
 
 ### [Best Practice](<https://leetcode.com/problems/number-of-1-bits/discuss/1044775/Python-n-and-(n-1)-trick-%2B-even-faster-explained>)
 
